@@ -1,1 +1,4 @@
-alert("Wizer");
+(function () {
+    "use strict";
+    alert("Wizer");
+}());
